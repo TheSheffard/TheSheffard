@@ -1,9 +1,9 @@
-<p align="center">
+ <p align="center">
   <strong>"Code is the tool; impact is the goal.<br>
   Coding is the art of bringing forth what is not, as though it were."</strong>
 </p>
 
-<h1 align="center">👋 Hi, I'm Rich dot com (TheSheffard)</h1>
+<h1 align="center">Hi, I'm Rich dot com (TheSheffard)</h1>
 
 <p align="center">
   <a href="mailto:emmanuelenemaku60@gmail.com">
@@ -21,19 +21,20 @@
   <img src="https://komarev.com/ghpvc/?username=TheSheffard&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-I'm a passionate **Software Engineer** and **Automation Specialist** dedicated to building high-performance web applications and intelligent automated systems. With a background in full-stack development and a deep interest in workflow optimization, I create tools that bridge the gap between complex data and seamless user experiences.
+I'm a Software Engineer and Automation Specialist focused on building high-performance web applications, scalable backend systems, and intelligent automated workflows. I enjoy turning complex ideas into practical software that solves real problems and creates meaningful impact.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- **🤖 What I do:** I specialize in building automation bots, dynamic web applications, cross-platform mobile apps, and scalable backend architectures.
-- **💡 My Philosophy:** I believe in **"Engineering with Intent"** — ensuring every line of code serves a purpose, transforming abstract ideas into tangible, functioning realities.
-- **🧠 Currently Exploring:** Enterprise-grade backends with **NestJS**, type-safe data layers with **Prisma** and **TypeORM**, and advanced AI integrations with Python.
+- **What I do:** Build automation bots, dynamic web applications, cross-platform mobile apps, and scalable backend architectures.
+- **My philosophy:** Engineering with intent. Every line of code should serve a purpose, and every project should solve a meaningful problem.
+- **Engineering focus:** Applying system design principles to real-world projects, with an emphasis on scalability, security, maintainability, performance, and reliability.
+- **Currently exploring:** Enterprise-grade backend development with NestJS, database architecture with Prisma and TypeORM, and AI-powered applications using Python.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -44,7 +45,7 @@ I'm a passionate **Software Engineer** and **Automation Specialist** dedicated t
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### Frontend & Mobile
+### Frontend and Mobile
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -55,7 +56,7 @@ I'm a passionate **Software Engineer** and **Automation Specialist** dedicated t
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=EFD8A0" alt="Zustand" />
 </p>
 
-### Backend & Frameworks
+### Backend and Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -64,7 +65,7 @@ I'm a passionate **Software Engineer** and **Automation Specialist** dedicated t
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
-### Databases & ORMs
+### Databases and ORMs
 
 <p>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
@@ -73,7 +74,7 @@ I'm a passionate **Software Engineer** and **Automation Specialist** dedicated t
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Tools & Platforms
+### Tools and Platforms
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -82,40 +83,46 @@ I'm a passionate **Software Engineer** and **Automation Specialist** dedicated t
 
 ---
 
-## 🛠️ Core Expertise
+## Core Expertise
 
-| Area | What I bring |
+| Area | Expertise |
 | :--- | :--- |
-| 🤖 **Automation & Web Scraping** | Sophisticated bots with Puppeteer and Python for data extraction and workflow automation. |
-| 🏗️ **Enterprise Backends** | Modular, testable services with NestJS — DI, guards, interceptors, and clean domain boundaries. |
-| 🗄️ **Data Layer Design** | Type-safe schemas and migrations with Prisma and TypeORM across PostgreSQL and MongoDB. |
-| 📱 **Mobile Development** | Cross-platform apps with React Native for iOS and Android. |
-| 🌐 **Full-Stack Development** | End-to-end apps with modern frontends (React/Next.js) and robust backends (NestJS/Node/Java). |
-| 🧩 **State Management** | Predictable client state with Redux and lightweight, hook-first stores with Zustand. |
-| 🔧 **API Architecture** | Secure, efficient RESTful APIs and complex database integrations. |
+| System Design and Architecture | Applying system design principles to build scalable, secure, maintainable, and reliable applications, with a focus on architectural decisions, service boundaries, performance, and fault tolerance. |
+| Backend Engineering | Building modular backend applications and secure REST APIs with NestJS and Node.js, including authentication, authorization, and database integration. |
+| Database Architecture | Designing data models, schemas, and migrations using PostgreSQL, MongoDB, Prisma, and TypeORM. |
+| Automation and Web Scraping | Building automation bots, data extraction tools, and workflow automation systems with Puppeteer and Python. |
+| Mobile Development | Developing cross-platform applications for Android and iOS using React Native. |
+| Full-Stack Development | Building end-to-end applications using React, Next.js, Node.js, and Java-based technologies. |
+| State Management | Managing client-side application state with Redux and Zustand. |
+| API Development | Designing secure REST APIs, authentication flows, and efficient database integrations. |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/TheSheffard">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TheSheffard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSheffard&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSheffard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSheffard&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheSheffard&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=TheSheffard&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## Let's Connect and Collaborate
 
-I'm always excited to discuss innovative projects — especially in automation, AI, mobile, or modern web development. Let's build something impactful together.
+I'm interested in building impactful software, solving real-world problems, and collaborating with developers who enjoy turning ambitious ideas into working products.
 
-- **📧 Email:** [emmanueltokyo24@gmail.com](mailto:emmanueltokyo24@gmail.com)
-- **📸 Instagram:** [@emmanuel_dotcom](https://www.instagram.com/emmanuel_dotcom/)
+If you're working on something in backend engineering, system design, automation, AI, mobile development, or web technologies, let's connect.
 
-<p align="center"><em>Engineering with Intent.</em></p>
+<p align="center">
+  <a href="mailto:emmanueltokyo123@gmail.com">Email</a> |
+  <a href="https://www.instagram.com/emmanuel_dotcom/">Instagram</a> |
+  <a href="https://github.com/TheSheffard">GitHub</a>
+</p>
+
+<p align="center"><strong>Engineering with Intent.</strong></p>
